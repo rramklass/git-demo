@@ -1,8 +1,10 @@
-# Compiled Form Modules
-*.fmx
+# sqlplus buffer
+afiedt.buf
 
-# Compiled Menu Modules
-*.mmx
+# 1 to 2 character sql scripts - just testing sql
+?.sql
+??.sql
 
-# Compiled Pre-Linked Libraries
-*.plx
+# vi buffer
+.*.swp
+
