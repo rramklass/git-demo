@@ -1,6 +1,7 @@
 
 -- fra_config.sql
 -- show location and size of FRA
+-- jkstill 2015-08-18 16:03:00 PDT
 
 col fra_location format a30
 col fra_size format a16
