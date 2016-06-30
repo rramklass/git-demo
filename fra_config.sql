@@ -4,7 +4,7 @@
 -- jkstill 2015-08-18 16:03:00 PDT
 
 col fra_location format a30
-col fra_size format a16
+col fra_size format a20
 
 select fra_location, fra_size from (
 	select name, value
